@@ -29,3 +29,7 @@ Happy Troubleshooting!
 👾     👾     👾
           💥
 🚀
+
+
+Procedure to see logged in user in powershell:
+net user

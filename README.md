@@ -24,12 +24,7 @@ Open the previously created XML file and search for the FilterRTID number. This 
 
 Scrolling up within the XML will provide the rule info.
 
-Happy Troubleshooting! 
-
-👾     👾     👾
-          💥
-🚀
-
+Happy Troubleshooting!
 
 Procedure to see logged in user in powershell:
 net user
